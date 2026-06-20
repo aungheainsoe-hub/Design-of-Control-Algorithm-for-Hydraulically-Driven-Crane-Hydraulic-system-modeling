@@ -46,8 +46,5 @@ algorithm development.
 - Custom `.ssc` component files (actuator, directional valve)
 - Project report (PDF)
 
-## Screenshots
-![Crane assembly](images/crane-assembly.png)
-![Simscape model](images/simscape-model.png)
 
 *Project completed [year], [LUT coursework / self-directed].*
