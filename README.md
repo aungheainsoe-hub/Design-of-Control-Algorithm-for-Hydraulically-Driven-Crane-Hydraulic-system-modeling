@@ -37,14 +37,15 @@ algorithm development.
 - High-fidelity simulation ready for testing control strategies
 - Demonstrates end-to-end capability: design, model, simulate, and analyse a complete
   electromechanical-hydraulic system
-- [Add a line on the control result if you have one — e.g. tracking performance,
-  response time, or stability of the controller you tested]
+
 
 ## Repository contents
 - SolidWorks crane assembly and parts *(large files available on request / [link])*
 - Simulink / Simscape model files
 - Custom `.ssc` component files (actuator, directional valve)
 - Project report (PDF)
+
+
 
 
 *Project completed [year], [LUT coursework / self-directed].*
